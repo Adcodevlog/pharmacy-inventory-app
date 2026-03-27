@@ -10,6 +10,18 @@
 *.userosscache
 *.sln.docstates
 
+# .NET
+PharmacyApi/bin/
+PharmacyApi/obj/
+
+# React
+node_modules/
+build/
+
+# VS
+.vs/
+*.user
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
